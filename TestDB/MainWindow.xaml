@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <ListView Name="ListVeci" Height="300" VerticalAlignment="Top" Margin="20" Width="500"></ListView>
+        <Frame Name="Frame1"></Frame>
     </Grid>
 </Window>
